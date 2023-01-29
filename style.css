@@ -1,0 +1,33 @@
+#comname{
+    border: 1px solid ;
+    border-bottom: 2px solid blue;
+    background: rgb(10, 226, 226);
+    text-align: center;
+}
+#about{
+    color: pink;
+    background: gray;
+    border-radius: 12px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    
+} 
+#b1{ color: red; 
+     background: rgb(193, 193, 207);}
+#card{
+    background: rgb(163, 240, 163);
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+#card1{ 
+    background: gold;
+
+}
+#b2{ color: red;}
+#card2{background-color: blueviolet;}
+body{ background: rgb(223, 209, 209);}
+
